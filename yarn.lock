@@ -7241,6 +7241,11 @@ move-concurrently@^1.0.1:
     rimraf "^2.5.4"
     run-queue "^1.0.3"
 
+mp4box@^0.4.1:
+  version "0.4.1"
+  resolved "https://registry.yarnpkg.com/mp4box/-/mp4box-0.4.1.tgz#7dc6369142b01d9233480454eb08ce1ce3e1d9b8"
+  integrity sha512-SkGIvunxxWePxq7gFGjpn7kvL0PKsahu1k6NKkUtFFtoFPaXMnYVgXLnJv7Ec1QWkem5rpFxQwNab9iErOTMYw==
+
 ms@2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/ms/-/ms-2.0.0.tgz#5608aeadfc00be6c2901df5f9861788de0d597c8"
